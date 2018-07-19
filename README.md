@@ -7,9 +7,6 @@ switch-case 直接字符串查找case行，在:后面加入即可
 ```shell
 python modify_src2.py file.c
 ```
-```c
-printf("hello");
-```
 即可生成对应插桩的injected.c文件
 代码粗糙，无需优化
 
